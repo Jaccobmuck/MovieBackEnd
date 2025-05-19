@@ -1,7 +1,6 @@
 ﻿using Comp375BackEnd.Data;
 using Comp375BackEnd.Models;
 using Comp375BackEnd.Models.Auth;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
