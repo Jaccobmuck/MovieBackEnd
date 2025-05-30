@@ -8,6 +8,6 @@ namespace Comp375BackEnd.Models
     {
         [Key]
         public long RoleId { get; set; }
-        public string Name { get; set; }
+        public string Name { get; set; } = string.Empty;
     }
 }
